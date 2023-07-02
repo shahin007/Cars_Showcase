@@ -1,0 +1,5 @@
+we first created Hero component with title + subtitle and button
+then we created custom button compnent and we passed some arguments to it 
+and in the compnent we recieved these props
+By using interfaces, you can specify the shape of the props object that a component expects, including the names of the props, their types, and whether they are required or optional.
+By defining the interface for the component's props, you provide a clear specification of the expected props, their types, and whether they are required or optional. This helps improve code maintainability, catches type errors during development, and provides better tooling support for developers working with React components.
